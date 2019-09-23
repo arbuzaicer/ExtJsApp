@@ -1,1 +1,3 @@
-# ExtJsApp
+# ModernTunesMyApp application
+
+moderndesktopminimal template
